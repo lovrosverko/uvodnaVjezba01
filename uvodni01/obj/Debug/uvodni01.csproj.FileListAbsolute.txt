@@ -1,0 +1,8 @@
+C:\Users\Lovro\source\repos\uvodni01\uvodni01\bin\Debug\uvodni01.exe.config
+C:\Users\Lovro\source\repos\uvodni01\uvodni01\bin\Debug\uvodni01.exe
+C:\Users\Lovro\source\repos\uvodni01\uvodni01\bin\Debug\uvodni01.pdb
+C:\Users\Lovro\source\repos\uvodni01\uvodni01\obj\Debug\uvodni01.csproj.AssemblyReference.cache
+C:\Users\Lovro\source\repos\uvodni01\uvodni01\obj\Debug\uvodni01.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lovro\source\repos\uvodni01\uvodni01\obj\Debug\uvodni01.csproj.CoreCompileInputs.cache
+C:\Users\Lovro\source\repos\uvodni01\uvodni01\obj\Debug\uvodni01.exe
+C:\Users\Lovro\source\repos\uvodni01\uvodni01\obj\Debug\uvodni01.pdb
